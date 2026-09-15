@@ -3,7 +3,7 @@ function App() {
     <>
     
     <div className='text-amber-200 font-bold bg-amber-50'>App</div>
-    <p>Electric</p>
+    <p>Electric system</p>
     </>
   )
 }
